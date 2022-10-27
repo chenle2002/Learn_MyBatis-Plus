@@ -1,9 +1,8 @@
 package com.atguigu.mybatisplus.pojo;
 
-import com.atguigu.mybatisplus.enums.SexEnum;
 import com.baomidou.mybatisplus.annotation.*;
 import lombok.*;
-
+import com.atguigu.mybatisplus.enums.SexEnum;
 /**
  * Date:2022/2/12
  * Author:ybc
